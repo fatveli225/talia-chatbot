@@ -1,0 +1,92 @@
+[
+  {
+    "id": "P001",
+    "name": "Disjoncteur différentiel 32A - Schneider Electric",
+    "category": "Protection électrique",
+    "price_fcfa": 18500,
+    "stock": 42,
+    "description": "Disjoncteur différentiel 32A, 30mA, type AC. Protège les installations domestiques contre les surcharges et les fuites de courant. Norme NF C 15-100.",
+    "tags": ["disjoncteur", "protection", "differentiel", "32A", "tableau electrique"]
+  },
+  {
+    "id": "P002",
+    "name": "Câble électrique souple 3x2.5mm² (rouleau 100m)",
+    "category": "Câblage",
+    "price_fcfa": 45000,
+    "stock": 30,
+    "description": "Câble souple HO7V-K 3x2.5mm², rouleau de 100 mètres. Idéal pour les circuits prises et petits appareils électroménagers.",
+    "tags": ["cable", "cablage", "fil electrique", "2.5mm", "rouleau"]
+  },
+  {
+    "id": "P003",
+    "name": "Panneau solaire monocristallin 330W",
+    "category": "Énergie solaire",
+    "price_fcfa": 95000,
+    "stock": 18,
+    "description": "Panneau solaire monocristallin 330W, haut rendement (>20%), garantie 25 ans. Compatible avec les kits solaires résidentiels et les onduleurs hybrides.",
+    "tags": ["panneau solaire", "solaire", "energie", "photovoltaique", "330w"]
+  },
+  {
+    "id": "P004",
+    "name": "Onduleur hybride 3kVA avec régulateur MPPT intégré",
+    "category": "Énergie solaire",
+    "price_fcfa": 285000,
+    "stock": 9,
+    "description": "Onduleur hybride 3kVA/24V, régulateur MPPT intégré 60A, compatible batteries lithium et plomb. Bascule automatique secteur/solaire/batterie.",
+    "tags": ["onduleur", "hybride", "3kva", "mppt", "batterie", "solaire"]
+  },
+  {
+    "id": "P005",
+    "name": "Prise de courant 2P+T 16A encastrable",
+    "category": "Appareillage électrique",
+    "price_fcfa": 3200,
+    "stock": 210,
+    "description": "Prise de courant 2 pôles + terre, 16A, encastrable, coloris blanc. Compatible avec les boîtiers standards 67mm.",
+    "tags": ["prise", "16a", "encastrable", "appareillage"]
+  },
+  {
+    "id": "P006",
+    "name": "Régulateur de tension automatique 5000VA",
+    "category": "Protection électrique",
+    "price_fcfa": 62000,
+    "stock": 15,
+    "description": "Stabilisateur automatique de tension 5000VA, protège les équipements sensibles contre les surtensions et micro-coupures fréquentes du réseau.",
+    "tags": ["regulateur", "stabilisateur", "tension", "5000va", "protection"]
+  },
+  {
+    "id": "P007",
+    "name": "Ampoule LED culot E27 12W (lot de 10)",
+    "category": "Éclairage",
+    "price_fcfa": 9500,
+    "stock": 150,
+    "description": "Lot de 10 ampoules LED E27, 12W (équivalent 100W), lumière blanche 6500K, durée de vie 25 000 heures.",
+    "tags": ["ampoule", "led", "eclairage", "e27", "lot"]
+  },
+  {
+    "id": "P008",
+    "name": "Batterie lithium 200Ah 24V (LiFePO4)",
+    "category": "Énergie solaire",
+    "price_fcfa": 620000,
+    "stock": 6,
+    "description": "Batterie lithium fer phosphate 200Ah/24V, 5000 cycles, BMS intégré. Idéale pour le stockage solaire résidentiel et commercial.",
+    "tags": ["batterie", "lithium", "lifepo4", "200ah", "stockage", "solaire"]
+  },
+  {
+    "id": "P009",
+    "name": "Tableau électrique préfabriqué 24 modules",
+    "category": "Protection électrique",
+    "price_fcfa": 38000,
+    "stock": 25,
+    "description": "Coffret électrique préfabriqué 24 modules, IP40, avec rail DIN et bornier de terre. Prêt à équiper.",
+    "tags": ["tableau", "coffret", "24 modules", "installation"]
+  },
+  {
+    "id": "P010",
+    "name": "Kit solaire autonome 100W (panneau + batterie + accessoires)",
+    "category": "Énergie solaire",
+    "price_fcfa": 78000,
+    "stock": 22,
+    "description": "Kit solaire tout-en-un 100W : panneau, batterie 12V, régulateur, 3 ampoules LED, câblage inclus. Idéal pour l'électrification de base sans réseau.",
+    "tags": ["kit solaire", "autonome", "100w", "electrification", "hors reseau"]
+  }
+]
