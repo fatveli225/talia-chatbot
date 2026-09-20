@@ -1,6 +1,6 @@
 # Talia — Assistante commerciale IA
 
-[![CI](https://github.com/USERNAME/talia-chatbot/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/talia-chatbot/actions/workflows/ci.yml)
+[![CI](https://github.com/fatveli225/talia-chatbot/actions/workflows/ci.yml/badge.svg)](https://github.com/fatveli225/talia-chatbot/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -100,7 +100,7 @@ le webhook WhatsApp appellent tous les deux `agent.reply(session_id, message)`.
 ### Option A — local (Python)
 
 ```bash
-git clone https://github.com/USERNAME/talia-chatbot.git
+git clone https://github.com/fatveli225/talia-chatbot.git
 cd talia-chatbot
 
 python -m venv venv
