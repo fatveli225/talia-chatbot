@@ -15,8 +15,7 @@ contexte métier se changent en une ligne de `.env` (`BUSINESS_NAME`,
 `BUSINESS_DESCRIPTION`, `data/catalog.json`).
 
 > Projet réalisé pour illustrer une intégration LLM de bout en bout (agent,
-> tool use, RAG, webhook, interface) — dans le cadre d'une candidature au
-> Graduate Program Schneider Electric.
+> tool use, RAG, webhook, interface) 
 
 ---
 
